@@ -17,7 +17,7 @@ class JogosController {
                 id: 354858757161272,
                 titulo: "São Paulo x Flamengo",
                 id_campeonato: 30,
-                data: formatDate(HOJE),
+                data: "01-11-2022",
                 opcoes: [ { 1: 2.5 }, { x: 3.1 }, { 2: 1.5 } ],
                 limites: [ { 1: 150 }, { x: 500 }, { 2: 750 } ]
             },
