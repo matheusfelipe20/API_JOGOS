@@ -17,7 +17,7 @@ class JogosController {
                 id: 354858757161272,
                 titulo: "São Paulo x Flamengo",
                 id_campeonato: 30,
-                data: "01-11-2022",
+                data: "2022-11-20",
                 opcoes: [ { 1: 2.5 }, { x: 3.1 }, { 2: 1.5 } ],
                 limites: [ { 1: 150 }, { x: 500 }, { 2: 750 } ]
             },
@@ -25,7 +25,7 @@ class JogosController {
                 id: 354858757161273,
                 titulo: "Fluminense x Palmeiras",
                 id_campeonato: 30,
-                data: formatDate(addDayDate(HOJE, 3)),
+                data: "2022-11-10",
                 opcoes: [ { 1: 1.25 }, { x: 4.5 }, { 2: 3.9 } ],
                 limites: [ { 1: 1000 }, { x: 1000 }, { 2: 1000 } ]
             },
@@ -33,7 +33,7 @@ class JogosController {
                 id: 354858757161274,
                 titulo: "Botafogo x Santos",
                 id_campeonato: 30,
-                data: "2022-07-15",
+                data: "2022-10-28",
                 opcoes: [ { 1: 10.14 }, { x: 2.5 }, { 2: 1.7 } ],
                 limites: [ { 1: 650 }, { x: 750 }, { 2: 500 } ]
             },
@@ -41,7 +41,7 @@ class JogosController {
                 id: 354858757161275,
                 titulo: "Vasco x Atlético",
                 id_campeonato: 30,
-                data: formatDate(addDayDate(HOJE, 1)),
+                data: "2022-11-09",
                 opcoes: [ { 1: 1.25 }, { x: 4.5 }, { 2: 3.9 } ],
                 limites: [ { 1: 1000 }, { x: 1000 }, { 2: 1000 } ]
             },
@@ -49,7 +49,7 @@ class JogosController {
                 id: 354858757161276,
                 titulo: "Ceará x Avaí",
                 id_campeonato: 30,
-                data: formatDate(addDayDate(HOJE, 7)),
+                data: "2022-08-20",
                 opcoes: [ { 1: 10.14 }, { x: 2.5 }, { 2: 1.7 } ],
                 limites: [ { 1: 650 }, { x: 750 }, { 2: 500 } ]
             },
@@ -58,7 +58,7 @@ class JogosController {
                 id: 354858324654689,
                 titulo: "Colômbia x Chile",
                 id_campeonato: 35,
-                data: formatDate(addDayDate(HOJE, 7)),
+                data: "2022-11-24",
                 opcoes: [ { 1: 1.63 }, { x: 3.84 }, { 2: 5.09 } ],
                 limites: [ { 1: 500 }, { x: 500 }, { 2: 500 } ]
             },
@@ -83,7 +83,7 @@ class JogosController {
                 id: 65489162165499,
                 titulo: "Deportivo Maldonado x Torque da Cidade de Montevideu",
                 id_campeonato: 36,
-                data: formatDate(addDayDate(HOJE, 3)),
+                data: "2022-11-11",
                 opcoes: [ { 1: 1.25 }, { x: 4.5 }, { 2: 3.9 } ],
                 limites: [ { 1: 0 }, { x: 0 }, { 2: 0 } ]
             },
