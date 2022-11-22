@@ -17,7 +17,7 @@ class JogosController {
                 id: 354858757161272,
                 titulo: "São Paulo x Flamengo",
                 id_campeonato: 30,
-                data: "2022-11-20",
+                data: "2022-12-20",
                 opcoes: [ { 1: 2.5 }, { x: 3.1 }, { 2: 1.5 } ],
                 limites: [ { 1: 150 }, { x: 500 }, { 2: 750 } ]
             },
@@ -25,7 +25,7 @@ class JogosController {
                 id: 354858757161273,
                 titulo: "Fluminense x Palmeiras",
                 id_campeonato: 30,
-                data: "2022-11-10",
+                data: "2022-12-10",
                 opcoes: [ { 1: 1.25 }, { x: 4.5 }, { 2: 3.9 } ],
                 limites: [ { 1: 1000 }, { x: 1000 }, { 2: 1000 } ]
             },
@@ -33,7 +33,7 @@ class JogosController {
                 id: 354858757161274,
                 titulo: "Botafogo x Santos",
                 id_campeonato: 30,
-                data: "2022-10-28",
+                data: "2022-12-28",
                 opcoes: [ { 1: 10.14 }, { x: 2.5 }, { 2: 1.7 } ],
                 limites: [ { 1: 650 }, { x: 750 }, { 2: 500 } ]
             },
@@ -66,7 +66,7 @@ class JogosController {
                 id: 354858324654690,
                 titulo: "Equador x Paraguai",
                 id_campeonato: 35,
-                data: "2022-07-15",
+                data: "2022-12-15",
                 opcoes: [ { 1: 5.77 }, { x: 4.32 }, { 2: 1.5 } ],
                 limites: [ { 1: 650 }, { x: 750 }, { 2: 500 } ]
             },
